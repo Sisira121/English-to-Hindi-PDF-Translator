@@ -33,7 +33,7 @@ pip install streamlit deep-translator fpdf
 3. Run the Streamlit app:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## File Structure
